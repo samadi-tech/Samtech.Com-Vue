@@ -10,11 +10,14 @@
             </div>
             <div class="body flex flex-wrap gap-5">
                 <div
-                    class="card-testi border-2 border-white rounded px-3 flex justify-center items-center flex-col w-full md:w-[350px]">
-                    <div class="picture w-[150px] aspect-square bg-dark rounded-full my-5"></div>
+                    class="card-testi border-2 border-gray-400 rounded px-3 flex justify-center items-center flex-col w-full md:w-[350px]">
+                    <div
+                        class="picture w-[150px] aspect-square bg-dark rounded-full my-5 overflow-hidden border-2 border-gray-400">
+                        <img src="../assets/img/gallery-1.jpg" alt="" class="w-full h-full object-cover">
+                    </div>
                     <h1 class="font-medium text-lg uppercase text-gray-200">Adi Nugroho</h1>
                     <span class="font-light text-sm text-gray-400">adienugroho.email@gmail.com</span>
-                    <div class="testi text-base font-light text-gray-50 my-6 mx-5 text-center">Lorem ipsum dolor sit
+                    <div class=" text-base font-light text-gray-50 my-6 mx-5 text-center italic">Lorem ipsum dolor sit
                         amet
                         consectetur
                         adipisicing elit.
@@ -24,11 +27,14 @@
                         ullam impedit ad aperiam odit.</div>
                 </div>
                 <div
-                    class="card-testi border-2 border-white rounded px-3 flex justify-center items-center flex-col w-full md:w-[350px]">
-                    <div class="picture w-[150px] aspect-square bg-dark rounded-full my-5"></div>
+                    class="card-testi border-2 border-gray-400 rounded px-3 flex justify-center items-center flex-col w-full md:w-[350px]">
+                    <div
+                        class="picture w-[150px] aspect-square bg-dark rounded-full my-5 overflow-hidden border-2 border-gray-400">
+                        <img src="../assets/img/gallery-1.jpg" alt="" class="w-full h-full object-cover">
+                    </div>
                     <h1 class="font-medium text-lg uppercase text-gray-200">Adi Nugroho</h1>
                     <span class="font-light text-sm text-gray-400">adienugroho.email@gmail.com</span>
-                    <div class="testi text-base font-light text-gray-50 my-6 mx-5 text-center">Lorem ipsum dolor sit
+                    <div class=" text-base font-light text-gray-50 my-6 mx-5 text-center italic">Lorem ipsum dolor sit
                         amet
                         consectetur
                         adipisicing elit.

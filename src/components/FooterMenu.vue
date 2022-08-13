@@ -5,19 +5,19 @@
                 <h1 class="uppercase text-base font-medium text-gray-50 mb-3">Menu</h1>
                 <router-link class="text-gray-100 text-base font-thin" :to="{ name: 'Home' }"
                     @click="changeMenu('Home')" :class="menuActive === 'Home'
-                    ? 'text-red-500' : ''">Home
+                    ? 'text-gray-50 font-semibold' : ''">Home
                 </router-link>
                 <router-link class="text-gray-100 text-base font-thin" :to="{ name: 'Profil' }"
                     @click="changeMenu('Profil')" :class="menuActive === 'Profil'
-                    ? 'text-red-500' : ''">Profil
+                    ? 'text-gray-50 font-semibold' : ''">Profil
                 </router-link>
                 <router-link class="text-gray-100 text-base font-thin" :to="{ name: 'Gallery' }"
                     @click="changeMenu('Gallery')" :class="menuActive === 'Gallery'
-                    ? 'text-red-500' : ''">Gallery
+                    ? 'text-gray-50 font-semibold' : ''">Gallery
                 </router-link>
                 <router-link class="text-gray-100 text-base font-thin" :to="{ name: 'About' }"
                     @click="changeMenu('About')" :class="menuActive === 'About'
-                    ? 'text-red-500' : ''">About
+                    ? 'text-gray-50 font-semibold' : ''">About
                 </router-link>
             </div>
             <div class="w-full my-10 md:w-1/3 md:my-0">
@@ -35,7 +35,22 @@
                 <p class="text-gray-100 text-base font-thin">@adie1007</p>
             </div>
         </div>
-        <footer class="text-center text-sm text-gray-200 py-5 border-t-2 border-gray-600">Hak Cipta : &copy;
+        <div class="sosmed flex items-center justify-center gap-3 m-5">
+            <div class="w-[50px] aspect-square rounded-full flex items-center justify-center">
+                <font-awesome-icon :icon="{ prefix: 'fab', iconName: 'facebook' }" class="text-blue-500 text-2xl" />
+            </div>
+            <div class="w-[50px] aspect-square rounded-full flex items-center justify-center">
+                <font-awesome-icon :icon="{ prefix: 'fab', iconName: 'instagram' }" class="text-red-400 text-2xl" />
+            </div>
+            <div class="w-[50px] aspect-square rounded-full flex items-center justify-center">
+                <font-awesome-icon :icon="{ prefix: 'fab', iconName: 'youtube' }" class="text-red-500 text-2xl" />
+            </div>
+            <div class="w-[50px] aspect-square rounded-full flex items-center justify-center">
+                <font-awesome-icon :icon="{ prefix: 'fab', iconName: 'linkedin' }" class="text-blue-600 text-2xl" />
+            </div>
+
+        </div>
+        <footer class="text-center text-sm text-gray-200 round py-5 border-t-2 border-gray-600">Hak Cipta : &copy;
             Copyright.
             Samadi-Tech |
             ADI
@@ -45,7 +60,7 @@
 
 <script setup>
 
-import { onMounted, ref, computed } from 'vue';
+import { computed } from 'vue';
 import { useStore } from 'vuex';
 
 const store = useStore();

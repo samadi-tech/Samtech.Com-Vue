@@ -23,7 +23,7 @@ import { computed, ref } from 'vue';
 
 const store = useStore()
 
-const pesan = ref('ghfgifduhgudf')
+const pesan = ref('')
 
 const website = computed(() => store.state.HomeState.website)
 

@@ -9,31 +9,42 @@
 
             </div>
             <div class="body my-10 ">
-                <p class="text-base text-justify indent-10">
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptates ipsam odit molestias, velit
-                    nemo
-                    maxime, doloribus cupiditate eaque dolore earum cum libero iusto quisquam, deleniti quos blanditiis
-                    architecto culpa in reiciendis. Vel beatae dignissimos voluptatum libero, exercitationem asperiores
-                    earum magni amet, accusantium unde et aperiam rerum necessitatibus architecto labore cupiditate
-                    error
-                    explicabo nisi, totam obcaecati. Ratione ex aliquam temporibus vel quos hic dolor soluta veniam
-                    possimus
-                    eum fuga voluptatem nisi nesciunt aut, quaerat itaque totam porro dignissimos. Nam voluptates
-                    aspernatur
-                    ipsum amet dolor voluptas sapiente, nesciunt eius qui commodi harum eveniet id quaerat modi dolores,
-                    culpa labore atque ducimus. Ut commodi pariatur nobis officiis aliquam ipsa iste tempore tenetur
-                    voluptatem odio quod illo dolorem vero voluptates ducimus veritatis libero non asperiores debitis,
-                    quam
-                    architecto ex maiores sit? Quis odio cumque maxime magnam quia earum cupiditate dicta fugit quae
-                    reprehenderit totam, deleniti aut ratione fuga voluptas repellendus quas enim quaerat, quisquam,
-                    quam
-                    eos accusantium. Excepturi laboriosam voluptatibus ab ullam hic. Neque libero officiis sed. Ad
-                    officia
-                    vero iusto sequi praesentium dolor sed expedita fuga optio modi unde reprehenderit commodi
-                    consequatur
-                    maxime, ipsum officiis omnis porro recusandae facilis nemo eligendi perspiciatis possimus dolore.
-                    Cumque
-                    laboriosam, sequi nam iste facere distinctio autem sit!
+                <p class="text-base text-justify indent-10 leading-relaxed mt-2">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis minus rerum itaque reiciendis,
+                    ipsum cumque dolorum iste odit eveniet accusamus dolore, tempora cupiditate exercitationem sit ea
+                    doloribus, in sunt. Ut quisquam nihil neque eos ratione minus voluptas. Cumque minus vero eaque
+                    molestias obcaecati eligendi. Nostrum unde ab error cumque minima. Commodi possimus qui inventore
+                    magnam corporis veniam ipsam quos numquam laboriosam, nemo, modi pariatur vero voluptate delectus,
+                    totam id veritatis nesciunt ea natus cum. Cupiditate distinctio enim blanditiis, est quam
+                    aspernatur. Nesciunt incidunt consequuntur ipsam error quae repellendus placeat distinctio,
+                    excepturi, deserunt voluptatum sapiente, commodi hic officia animi. Corporis, at!
+                </p>
+                <p class="text-base text-justify indent-10 leading-relaxed mt-2">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas quisquam, voluptatum voluptatibus
+                    itaque laudantium est? Provident aliquid omnis sed possimus esse voluptates. Inventore, nisi
+                    officiis voluptas a quasi, odio iusto, officia eaque tempora doloremque voluptatibus omnis sequi
+                    architecto modi. Impedit itaque delectus, beatae dicta commodi quae velit eligendi voluptates ullam
+                    est maiores excepturi, esse nulla amet eos laborum aspernatur incidunt inventore fugit iure odit
+                    accusantium at nam. Eaque, hic nobis necessitatibus dolor dicta vero veritatis est officiis unde
+                    iste cumque.
+                </p>
+                <p class="text-base text-justify indent-10 leading-relaxed mt-2">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas quisquam, voluptatum voluptatibus
+                    itaque laudantium est? Provident aliquid omnis sed possimus esse voluptates. Inventore, nisi
+                    officiis voluptas a quasi, odio iusto, officia eaque tempora doloremque voluptatibus omnis sequi
+                    architecto modi. Impedit itaque delectus, beatae dicta commodi quae velit eligendi voluptates ullam
+                    est maiores excepturi, esse nulla amet eos laborum aspernatur incidunt inventore fugit iure odit
+                    accusantium at nam. Eaque, hic nobis necessitatibus dolor dicta vero veritatis est officiis unde
+                    iste cumque.
+                </p>
+                <p class="text-base text-justify indent-10 leading-relaxed mt-2">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas quisquam, voluptatum voluptatibus
+                    itaque laudantium est? Provident aliquid omnis sed possimus esse voluptates. Inventore, nisi
+                    officiis voluptas a quasi, odio iusto, officia eaque tempora doloremque voluptatibus omnis sequi
+                    architecto modi. Impedit itaque delectus, beatae dicta commodi quae velit eligendi voluptates ullam
+                    est maiores excepturi, esse nulla amet eos laborum aspernatur incidunt inventore fugit iure odit
+                    accusantium at nam. Eaque, hic nobis necessitatibus dolor dicta vero veritatis est officiis unde
+                    iste cumque.
                 </p>
             </div>
         </div>

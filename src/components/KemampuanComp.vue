@@ -9,10 +9,32 @@
 
             </div>
             <div class="body my-10 flex flex-wrap items-center justify-center gap-3">
-                <div class="w-[150px] aspect-square border-2 border-gray-100"></div>
-                <div class="w-[150px] aspect-square border-2 border-gray-100"></div>
-                <div class="w-[150px] aspect-square border-2 border-gray-100"></div>
-                <div class="w-[150px] aspect-square border-2 border-gray-100"></div>
+                <div class="w-[150px] aspect-square border-2 border-gray-100 overflow-hidden">
+                    <img src="../assets/logo/laravel.jpg" class="object-contain block w-full h-full">
+                </div>
+                <div class="w-[150px] aspect-square border-2 border-gray-100 overflow-hidden">
+                    <img src="../assets/logo/react.jpg" class="object-contain block w-full h-full">
+                </div>
+                <div class="w-[150px] aspect-square border-2 border-gray-100 overflow-hidden">
+                    <img src="../assets/logo/mysql.jpg" class="object-contain block w-full h-full">
+                </div>
+                <div class="w-[150px] aspect-square border-2 border-gray-100 overflow-hidden">
+                    <img src="../assets/logo/vue.jpg" class="object-contain block w-full h-full">
+                </div>
+                <div class="w-[150px] aspect-square border-2 border-gray-100 overflow-hidden">
+                    <img src="../assets/logo/tailwind.jpg" class="object-contain block w-full h-full">
+                </div>
+                <div class="w-[150px] aspect-square border-2 border-gray-100 overflow-hidden">
+                    <img src="../assets/logo/php.jpg" class="object-contain block w-full h-full">
+                </div>
+                <div class="w-[150px] aspect-square border-2 border-gray-100 overflow-hidden">
+                    <img src="../assets/logo/javascript.jpg" class="object-contain block w-full h-full">
+                </div>
+                <div class="w-[150px] aspect-square border-2 border-gray-100 overflow-hidden">
+                    <img src="../assets/logo/vb.jpg" class="object-contain block w-full h-full">
+                </div>
+
+
             </div>
         </div>
     </section>
